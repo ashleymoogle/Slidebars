@@ -468,3 +468,5 @@ var slidebars = function () {
 
 	$( window ).on( 'resize', this.css.bind( this ) );
 };
+
+module.exports = slidebars;
